@@ -6,6 +6,7 @@
   I/P:  string1:hello
         string2:elhoa
     O/P: Not a anagram*/
+
 #include<stdio.h>
 int main()
 {
