@@ -1,4 +1,6 @@
 //C program to add specific value to all digits in a number
+//Adding a digit to all the digits of a number 
+//Eg: digit=4, number = 2875, o/p= 612119
 #include<stdio.h>
 void main()
 {
