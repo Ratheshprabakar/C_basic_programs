@@ -40,5 +40,6 @@ int main()
 	}
 	
 	(first==0 && second ==0)?printf("\nNo sum occurs"):printf("[%d,%d]",first,second);
+	free(input_array);
 
 }
